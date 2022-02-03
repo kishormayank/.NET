@@ -1,0 +1,8 @@
+C:\Users\Mayank\Desktop\CAMP Training\c#\CollectionsAssignment 2\CollectionsAssignment 2\bin\Debug\CollectionsAssignment 2.exe.config
+C:\Users\Mayank\Desktop\CAMP Training\c#\CollectionsAssignment 2\CollectionsAssignment 2\bin\Debug\CollectionsAssignment 2.exe
+C:\Users\Mayank\Desktop\CAMP Training\c#\CollectionsAssignment 2\CollectionsAssignment 2\bin\Debug\CollectionsAssignment 2.pdb
+C:\Users\Mayank\Desktop\CAMP Training\c#\CollectionsAssignment 2\CollectionsAssignment 2\obj\Debug\CollectionsAssignment 2.csproj.AssemblyReference.cache
+C:\Users\Mayank\Desktop\CAMP Training\c#\CollectionsAssignment 2\CollectionsAssignment 2\obj\Debug\CollectionsAssignment 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mayank\Desktop\CAMP Training\c#\CollectionsAssignment 2\CollectionsAssignment 2\obj\Debug\CollectionsAssignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\CAMP Training\c#\CollectionsAssignment 2\CollectionsAssignment 2\obj\Debug\CollectionsAssignment 2.exe
+C:\Users\Mayank\Desktop\CAMP Training\c#\CollectionsAssignment 2\CollectionsAssignment 2\obj\Debug\CollectionsAssignment 2.pdb
